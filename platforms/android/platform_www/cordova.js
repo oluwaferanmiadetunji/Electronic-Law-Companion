@@ -1895,7 +1895,7 @@ utils.createUUID = function () {
         UUIDcreatePart(2) + '-' +
         UUIDcreatePart(2) + '-' +
         UUIDcreatePart(2) + '-' +
-         createPart(6);
+        UUIDcreatePart(6);
 };
 
 /**
